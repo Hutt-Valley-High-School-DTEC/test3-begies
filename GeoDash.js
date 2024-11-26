@@ -3,7 +3,7 @@
 // Create a sprite
 // Written by ??? 
 /*******************************************************/
-console.log("%c t01_create_sprite", "color: blue;");
+console.log("%c xxxxxxxxxxxx", "color: red;");
 
 const SCREEN_WIDTH = 400;
 const SCREEN_HEIGHT = 200;
